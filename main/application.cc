@@ -1189,3 +1189,4 @@ void Application::ResetProtocol() {
         protocol_.reset();
     });
 }
+//trigger compile lcd board
